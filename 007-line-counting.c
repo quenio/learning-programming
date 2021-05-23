@@ -4,15 +4,15 @@
 
 int main()
 {
-  int nl = 0;
+  int count = 0;
   int c;
   while ((c = getchar()) != EOF)
   {
     if (c == '\n')
     {
-      nl++;
+      count++;
     }
   }
-  printf("line count = %d\n", nl);
+  printf("line count = %d\n", count);
 }
 
