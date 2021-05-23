@@ -6,7 +6,7 @@ class TemperatureTable
   {
     for (float fahrenheit = 0; fahrenheit <= 100; fahrenheit += 10) {
       float celsius = (fahrenheit - 32) * 0.55f;
-      System.out.printf("%.1ff -> %.1fc\n", fahrenheit, celsius);
+      System.out.printf("%3.0fF -> %5.1fC\n", fahrenheit, celsius);
     }
   }
 }

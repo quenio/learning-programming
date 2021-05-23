@@ -6,5 +6,5 @@ int main()
 {
   float fahrenheit = 0;
   float celsius = (fahrenheit - 32) * 0.55;
-  printf("%.1ff -> %.1fc\n", fahrenheit, celsius);  
+  printf("%1.0fF -> %5.1fC\n", fahrenheit, celsius);  
 }
