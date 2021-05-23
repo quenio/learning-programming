@@ -23,5 +23,5 @@ python3 XXX-program-name.py
 
 ## References
 
-These programs were based on, or inspired by, the examples found in the following books:
+These programs are based on, or inspired by, the examples found in the following books:
 - Kernighan, Brian W., and Dennis M. Ritchie. The C Programming Language. 1988.
