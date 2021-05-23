@@ -6,6 +6,6 @@ class TemperatureConversion
   {
     float fahrenheit = 0;
     float celsius = (fahrenheit - 32) * 0.55f;
-    System.out.printf("%1.0fF -> %5.1fC\n", fahrenheit, celsius);  
+    System.out.printf("%fF -> %fC\n", fahrenheit, celsius);  
   }
 }
