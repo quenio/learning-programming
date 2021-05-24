@@ -1,0 +1,4 @@
+cases:
+  single:
+    output: |
+      Hello, World!
