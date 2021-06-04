@@ -21,6 +21,12 @@ java XXX-program-name.java
 python3 XXX-program-name.py
 ```
 
+## Running F# on Linux
+
+```sh
+dotnet fsi XXX-program-name.fsx
+```
+
 ## References
 
 These programs are based on, or inspired by, the examples found in the following books:
