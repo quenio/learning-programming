@@ -21,7 +21,7 @@ java XXX-program-name.java
 python3 XXX-program-name.py
 ```
 
-## Running F# on Linux
+## Running F# Code on Linux
 
 ```sh
 dotnet fsi XXX-program-name.fsx
